@@ -1,0 +1,25 @@
+/* centering navbar */
+.navbar {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background-color: rgb(73, 73, 73);
+
+}
+
+.paddingTop {
+    padding-top: 30pt;
+}
+
+#paddingleft {
+    padding-left: 40pt;
+}
+
+#searchArea {
+    background-color: rgba(223, 223, 223, 0.698);
+}
+
+html, body {
+    height: 100%;
+}
