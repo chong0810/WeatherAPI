@@ -103,6 +103,6 @@ input {
     margin-top: 10pt;
 }
 
-#searchedCityCSS {
-    
+.cityList {
+    margin-top: 6pt;
 }
